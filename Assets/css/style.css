@@ -32,11 +32,11 @@ header section {
     font-size: 20px;
 }
 
-ul {
+header section ul {
     list-style-type: none;
 }
 
-li {
+header section ul li {
     display: inline-block;
     margin-left: 25px;
 }
